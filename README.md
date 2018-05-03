@@ -1,5 +1,5 @@
 # donate
-Donation for @konojunya.
+Donation for [@konojunya](https://twitter.com/konojunya).
 
 Although I am a student, I am studying at many companies, buying technical books and reading. Those who support you please donate.
 
