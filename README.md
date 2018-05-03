@@ -1,0 +1,2 @@
+# donate
+Donation for @konojunya.
